@@ -1,0 +1,27 @@
+
+body {
+    text-align: center;
+    background-image: url('wallpaper2.jpg');
+}
+
+
+
+h1 {
+    font-size: 100px;
+    text-shadow: 30px black;
+    color: blueviolet;
+}
+
+p {
+    font-size: 30px;
+    color: black
+}
+
+.box{
+    margin:40px;
+    position: relative;
+    background-color: #ffffff;
+    box-shadow: 0 0 30px rgba(0,0,0,0.4);
+    padding: 30px;
+    border-radius: 60px;
+    }
